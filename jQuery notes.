@@ -1,0 +1,1 @@
+var $orangeSpan = $("span.orange")  //* this will get the specific span in Orange.
